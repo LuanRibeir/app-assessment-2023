@@ -1,0 +1,4 @@
+R;Descricao;web;nome;cpf;90
+B;codigo;bolo;morango;20;10;quadrado;chocolate;2
+T;codigo;nome;sabor;20;10;true;decoracao;false
+P;codigo;nome;sabor;20;10;P;true;1
